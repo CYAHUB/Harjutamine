@@ -1,1 +1,2 @@
-Github on nii suure kui ka väikeste projectide jaoks võib ka olla lihtsate asjade. Suurem osa inimesed kasutavad projecktide jaoks, et jagada enda teadmisi või aitada inimestel oma tegevusi lihtsustada.
+Github on nii suure kui ka väikeste projectide jaoks võib ka olla lihtsate asjade. Suurem osa inimesed kasutavad projektide jaoks, et jagada enda teadmisi või aitada inimestel oma tegevusi lihtsustada.
+Ise kasutaksin väikeste projektites ja failid jagamiseks. Võimalik on ka panna privaatseks kui midagi juhtus või läks nässu midagi.
